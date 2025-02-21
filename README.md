@@ -1,2 +1,2 @@
 # What is my postal code
- A wordpress plugin for detecting postal code
+The “What is My Postal Code” plugin is a lightweight, user-centric WordPress solution that uses the Nominatim OpenStreetMap API to determine and display the user's postal code based on their current GPS location or a manual search. With an interactive map powered by Leaflet and initial continent markers, the plugin provides full location details and an intuitive interface for end users.
